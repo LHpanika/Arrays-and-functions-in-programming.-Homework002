@@ -1,0 +1,15 @@
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.csproj.AssemblyReference.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.AssemblyInfoInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.AssemblyInfo.cs
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.csproj.CoreCompileInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\bin\Debug\net6.0\task14.exe
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\bin\Debug\net6.0\task14.deps.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\bin\Debug\net6.0\task14.runtimeconfig.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\bin\Debug\net6.0\task14.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\bin\Debug\net6.0\task14.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\refint\task14.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\task14.genruntimeconfig.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task14\obj\Debug\net6.0\ref\task14.dll

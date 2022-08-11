@@ -1,0 +1,5 @@
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task16\obj\Debug\net6.0\task16.csproj.AssemblyReference.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task16\obj\Debug\net6.0\task16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task16\obj\Debug\net6.0\task16.AssemblyInfoInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task16\obj\Debug\net6.0\task16.AssemblyInfo.cs
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework002\Arrays-and-functions-in-programming.-Homework002\task16\obj\Debug\net6.0\task16.csproj.CoreCompileInputs.cache
